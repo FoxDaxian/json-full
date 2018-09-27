@@ -1,0 +1,22 @@
+{
+    "name": "json-full",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-env": "^1.7.0",
+        "jest": "^23.6.0",
+        "nodemon": "^1.18.4"
+    },
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "lodash": "^4.17.11"
+    },
+    "scripts": {
+        "dev": "nodemon ./index.js",
+        "test": "jest"
+    },
+    "repository": "https://github.com/a13821190779/json-full.git",
+    "author": "fox <945039036@qq.com>",
+    "license": "MIT"
+}
