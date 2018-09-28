@@ -1,4 +1,6 @@
 # json-full
+    desc： The node side displays the type of the non-JSON specification, which is convenient for debuger.
+
 
 method:
 
